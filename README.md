@@ -6,11 +6,17 @@ En este documento proporcionamos una visión general del esquema de la base de d
 
 **Diagrama ER**
 
+
 ![Diagrama ER](https://github.com/steph-d989/ProyectoBBDD/blob/main/ER%20DIAGRAM%20PROYECTO%20BBDD.png)
+
+
 
 **Diagrama Logico**
 
+
 ![Diagrama Logico](https://github.com/steph-d989/ProyectoBBDD/blob/main/MODELO%20LOGICO%20PROYECTO%20BBDD.png)
+
+
 
 **Tablas**
 
