@@ -4,19 +4,21 @@
 
 En este documento proporcionamos una visión general del esquema de la base de datos para The Bridge, detallando el propósito y la estructura de cada tabla y las relaciones entre ellas.
 
+<br>
+<br>
 **Diagrama ER**
-
-
+<br>
+<br>
 ![Diagrama ER](https://github.com/steph-d989/ProyectoBBDD/blob/main/ER%20DIAGRAM%20PROYECTO%20BBDD.png)
-
-
+<br>
+<br>
 
 **Diagrama Logico**
-
-
+<br>
+<br>
 ![Diagrama Logico](https://github.com/steph-d989/ProyectoBBDD/blob/main/MODELO%20LOGICO%20PROYECTO%20BBDD.png)
-
-
+<br>
+<br>
 
 **Tablas**
 
