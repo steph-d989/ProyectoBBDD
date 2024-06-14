@@ -3,6 +3,7 @@
 # *Esquema de la Base de Datos para The Bridge*
 
 En este documento proporcionamos una visión general del esquema de la base de datos para The Bridge, detallando el propósito y la estructura de cada tabla y las relaciones entre ellas.
+
 ---
 **Diagrama ER**
 ---
